@@ -2,6 +2,10 @@
 
 A mobile application for **Android** built with **Java** in **Android Studio**, designed to help users track and achieve their goals. With customizable features and a sleek design, this app provides an interactive and intuitive way to stay on top of personal objectives.
 
+![BlueTheme](./BlueTheme.jpg)
+![LightTheme](./LightTheme.jpg)
+![DarkTheme](./DarkTheme.jpg)
+
 ---
 
 ## ✨ Key Features
@@ -19,6 +23,8 @@ A mobile application for **Android** built with **Java** in **Android Studio**, 
 - Goals are displayed on the main screen with:
   - Icon, title, description, frequency, and progress.
   - **Progress Tracker** showing completion relative to the frequency.
+ 
+![GoalCreation](./GoalCreation.jpg)
 
 ---
 
@@ -30,6 +36,8 @@ A mobile application for **Android** built with **Java** in **Android Studio**, 
   - Mark a specific day as **completed**.
 - Long-press a goal card to:
   - Load its information into the **custom calendar** for detailed exploration of completed dates.
+ 
+![GoalCards](./GoalCards.jpg)
 
 ---
 
@@ -41,6 +49,8 @@ A fully custom-built calendar, optimized specifically for this application, offe
 - **Fluid animations**: Enjoy smooth transitions and interactions, optimized for performance.
 
 This calendar stands out with its exceptional performance, surpassing many generic Android calendar libraries.
+
+![CalendarView](./CalendarView.jpg)
 
 ---
 
@@ -57,6 +67,8 @@ Personalize your experience with options such as:
 - **Language preference**: Switch between:
   - English
   - Spanish
+ 
+![Settings](./Settings.jpg)
 
 ---
 
