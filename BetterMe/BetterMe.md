@@ -2,9 +2,11 @@
 
 A mobile application for **Android** built with **Java** in **Android Studio**, designed to help users track and achieve their goals. With customizable features and a sleek design, this app provides an interactive and intuitive way to stay on top of personal objectives.
 
-![BlueTheme](./BlueTheme.jpg)
-![LightTheme](./LightTheme.jpg)
-![DarkTheme](./DarkTheme.jpg)
+<p align="center">
+  <img src="./BlueTheme.jpg" alt="Blue Theme" width="30%">
+  <img src="./LightTheme.jpg" alt="Light Theme" width="30%">
+  <img src="./DarkTheme.jpg" alt="Dark Theme" width="30%">
+</p>
 
 ---
 
