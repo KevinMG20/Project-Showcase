@@ -10,13 +10,9 @@ A mobile application for **Android** built with **Java** in **Android Studio**, 
 
 ## ✨ Key Features
 
-<table>
-  <tr>
-    <td>
-      <img src="./GoalCreation.jpg" alt="Goal Creation" width="300px">
-    </td>
-    <td>
-      <h3>📝 <strong>Create and Manage Goals</strong></h3>
+<div style="display:flex; flex-direction:row; flex-wrap:nowrap; width: 100%; align-items:center; gap: 32px; justify-content:center;">
+  <div>
+  <h3>📝 <strong>Create and Manage Goals</strong></h3>
       <ul>
         <li>Add any goal with:
           <ul>
@@ -40,18 +36,16 @@ A mobile application for **Android** built with **Java** in **Android Studio**, 
           </ul>
         </li>
       </ul>
-    </td>
-    
-  </tr>
-</table>
-
+  </div>
+  <img src="./GoalCreation.jpg" alt="Goal Creation" width="300px">
+</div>
 
 ---
 
-<table>
-  <tr>
-    <td>
-      <h3>🎯 <strong>Interactive Goal Cards</strong></h3>
+<div style="display:flex; flex-wrap:nowrap; width: 100%; align-items:center; gap: 32px; justify-content:center;">
+  <img src="./GoalCards.jpg" alt="Goal Cards" width="300px">
+  <div>
+  <h3>🎯 <strong>Interactive Goal Cards</strong></h3>
       <ul>
         <li>Swipe <strong>right</strong> on a goal card to:
           <ul>
@@ -66,27 +60,18 @@ A mobile application for **Android** built with **Java** in **Android Studio**, 
         </li>
         <li>Long-press a goal card to:
           <ul>
-            <li>Load its information into the <strong>custom calendar</strong> for detailed exploration of completed dates.</li>
+            <li>Load its information into the <strong>custom calendar</strong> for <br/>detailed exploration of completed dates.</li>
           </ul>
         </li>
       </ul>
-    </td>
-    <td>
-      <img src="./GoalCards.jpg" alt="Goal Cards" width="500px">
-    </td>
-  </tr>
-</table>
-
+  </div>
+</div>
 
 ---
 
-<table>
-  <tr>
-    <td>
-      <img src="./CalendarView.jpg" alt="Calendar View" width="550px">
-    </td>
-    <td>
-      <h3>📆 <strong>Custom Calendar</strong></h3>
+<div style="display:flex; flex-wrap:nowrap; width: 100%; align-items:center; gap: 32px; justify-content:center;">
+  <div style="max-width: 50%;">
+  <h3>📆 <strong>Custom Calendar</strong></h3>
       <p>A fully custom-built calendar, optimized specifically for this application, offering:</p>
       <ul>
         <li><strong>Goal-specific views</strong>: Displays the selected goal’s completed dates.</li>
@@ -95,17 +80,16 @@ A mobile application for **Android** built with **Java** in **Android Studio**, 
         <li><strong>Fluid animations</strong>: Enjoy smooth transitions and interactions, optimized for performance.</li>
       </ul>
       <p>This calendar stands out with its exceptional performance, surpassing many generic Android calendar libraries.</p>
-    </td>
-  </tr>
-</table>
-
+  </div>
+  <img src="./CalendarView.jpg" alt="Calendar View" width="300px">
+</div>
 
 ---
 
-<table>
-  <tr>
-    <td>
-      <h3>⚙️ <strong>Settings Screen</strong></h3>
+<div style="display:flex; flex-wrap:nowrap; width: 100%; align-items:center; gap: 32px; justify-content:center;">
+  <img src="./Settings.jpg" alt="Settings Screen" width="300px">
+  <div style="max-width: 50%;">
+  <h3>⚙️ <strong>Settings Screen</strong></h3>
       <p>Personalize your experience with options such as:</p>
       <ul>
         <li><strong>Username customization</strong>: Set a personalized name for the welcome message.</li>
@@ -129,14 +113,8 @@ A mobile application for **Android** built with **Java** in **Android Studio**, 
           </ul>
         </li>
       </ul>
-    </td>
-    <td>
-      <img src="./Settings.jpg" alt="Settings Screen" width="350px">
-    </td>
-  </tr>
-</table>
-
-
+  </div>
+</div>
 
 ## 🚀 Highlights and Star Features
 - **Interactive Goal Cards**: Swipe to edit, delete, or mark progress.
