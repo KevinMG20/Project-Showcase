@@ -33,9 +33,9 @@ This is a **genuine project** that was executed as part of my professional respo
 
 ### ✅ **Dynamic Content**
 - Healthcare staff can update wall content in real time using a custom-built **Content Management System (CMS)**.
-- Easily manage displayed information through an intuitive and user-friendly interface.
+- Easily manage displayed information through an intuitive and **user-friendly interface**.
+- Desktop, laptop, tablet and mobile screen size **previews**.
 
-<!-- ![CMS](./Screenshots/CMS.png) -->
 ![CMS](./Screenshots/CMS%202.png)
 
 ### 🔒 **Fast and Secure Authentication**
@@ -63,8 +63,13 @@ This is a **genuine project** that was executed as part of my professional respo
 - Features include **persistent conversations** and unread message indicators.
 - Powered by **WebSockets** for fast and reliable communication.
 
-![Chat](./Screenshots/Chat.png)
-![Conversation](./Screenshots/Conversaciones.png)
+<div align="center">
+  <img src="./Screenshots/Chat.png" alt="Chats" width="49%">
+  <img src="./Screenshots/Conversaciones.png" alt="Conversation" width="49%">
+</div>
+
+<!-- ![Chat](./Screenshots/Chat.png)
+![Conversation](./Screenshots/Conversaciones.png) -->
 
 
 ## 🎯 Solving Real Problems
@@ -74,6 +79,13 @@ This platform addresses key challenges:
 3. **Centralized Management**: Simplifies handling of schedules, reports, patient attention and records for healthcare professionals.
 4. **Communication**: Allows users to easily access healthcare professionals' contact information. Additionally, it features a real-time chat feature that enables seamless communication.
 5. **Valuable tools**: Equips healthcare professionals with various tools to enhance patient care, streamline processes, and optimize efficiency.
+
+## 🛡️ Security Features
+- Front-end authentication using **Clerk** and institutional **Google Accounts**.  
+- **Role-Based Access Control (RBAC)** implemented for additional front-end security **via back-end authorization**.  
+- Back-end endpoint protection using **JWT tokens**.  
+- Database users configured with **restricted permissions**.
+
 
 ## 🛠️ Technologies Used
 - **Angular**: Frontend framework.
